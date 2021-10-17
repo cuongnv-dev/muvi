@@ -1,0 +1,41 @@
+{
+  "button": {
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "forgotPassword": "Quên mật khẩu?",
+    "watchMovie": "Xem phim ngay",
+    "help": "Help, FAQ",
+    "setting": "Cài đặt",
+    "signOut": "Đăng xuất",
+    "myList": "Danh sách của tôi",
+    "changePassword": "Đổi mật khẩu",
+    "profile": "Thông tin tài khoản"
+  },
+  "label": {
+    "email": "Email",
+    "password": "Mật khẩu",
+    "orContinueWith": "hoặc đăng nhập với",
+    "createAccount": "Tạo tài khoản",
+    "trending": "Hiện đang thịnh hành",
+    "upComming": "Sắp phát hành",
+    "topRated": "Top Rated",
+    "seeAll": "Xem tất cả",
+    "relatedMovies": "Nội dung tương tự",
+    "seasons": "Seasons",
+    "popularTV": "Phim truyền hình thịnh hành",
+    "myList": "Danh sách của tôi"
+  },
+  "header": {},
+  "placeholder": {
+    "email": "Địa chỉ email",
+    "password": "Mật khẩu"
+  },
+  "error": {
+    "globalError": "エラーが発生しました。もう一度お試しください。"
+  },
+  "messages": {
+    "signOutDesc": "ログアウトしますか？",
+    "recommendMessage": "Hãy thưởng thức những bộ phim mà chúng tôi gợi ý cho bạn",
+    "searchMsg": "Nhập tên của phim hay series bạn chọn để xem trên Muvi"
+  }
+}

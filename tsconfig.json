@@ -1,0 +1,38 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "lib": ["es2017", "DOM"],
+    "allowJs": true,
+    "jsx": "react-native",
+    "noEmit": true,
+    "isolatedModules": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "paths": {
+      "@api": ["./src/api/index"],
+      "@components": ["./src/components/index"],
+      "@features/*": ["./src/features/*"],
+      "@models": ["./src/models/index"],
+      "@utils/*": ["./src/utils/*"],
+      "@navigation/*": ["./src/navigation/*"],
+      "@themes": ["./src/themes/index"],
+      "@assets/*": ["./src/assets/*"],
+      "@store": ["./src/store/index"],
+      "@common": ["./src/common/index"],
+      "@services/*": ["./src/services/*"],
+      "@hooks": ["./src/hooks/index"]
+    },
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": false
+  },
+  "exclude": [
+    "node_modules",
+    "babel.config.js",
+    "metro.config.js",
+    "jest.config.js"
+  ],
+  "extends": "expo/tsconfig.base"
+}

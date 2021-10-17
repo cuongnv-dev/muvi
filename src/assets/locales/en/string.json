@@ -1,0 +1,36 @@
+{
+  "button": {
+    "login": "Login",
+    "register": "Register",
+    "forgotPassword": "Forgot Password?",
+    "watchMovie": "Watch Movie",
+    "help": "Help, FAQ"
+  },
+  "label": {
+    "email": "Email",
+    "password": "Password",
+    "orContinueWith": "or continue with",
+    "createAccount": "Create Account",
+    "trending": "Trending on Muvi",
+    "upComming": "Upcoming",
+    "topRated": "Top Rated",
+    "popularTV": "Popular TV",
+    "relatedMovies": "Related Movies",
+    "seasons": "Seasons",
+    "seeAll": "See all",
+    "myList": "My List"
+  },
+  "header": {},
+  "placeholder": {
+    "email": "Your email",
+    "password": "Your password"
+  },
+  "error": {
+    "globalError": "An error occurred, please try again"
+  },
+  "messages": {
+    "signOutDesc": "Are you sure you want to sign out?",
+    "recommendMessage": "We have recommended movies for you, let enjoy it",
+    "searchMsg": "Start typing a movie or series of your choice to watch on Muvi"
+  }
+}
